@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add reputation.db
-        # Solo hace commit si hay cambios, para evitar errores
+        # Usamos -f para saltar el .gitignore solo aquí
+        git add -f reputation.db 
         git commit -m "Auto-update: reputation.db [skip ci]" || echo "No hay cambios en la base de datos"
         git push
