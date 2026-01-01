@@ -1,7 +1,7 @@
 # Barça Media Reputation Monitor
 
 
-Este proyecto es una herramienta de **inteligencia de datos** diseñada para monitorizar y analizar la reputación del **FC Barcelona** en los medios de comunicación internacionales en tiempo real.
+Este proyecto es una herramienta de **inteligencia de datos** diseñada para monitorizar y analizar la reputación del **FC Barcelona** en los medios de comunicación internacionales en cada 3 dias.
 
 ## Funcionalidades
 
@@ -14,9 +14,9 @@ Este proyecto es una herramienta de **inteligencia de datos** diseñada para mon
 * **Alertas de Reputación:** Sistema visual que detecta volúmenes críticos de noticias negativas.
 
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python 3.12
 
 * **Base de Datos:** SQLite (SQLAlchemy)
 
@@ -43,7 +43,7 @@ Este proyecto es una herramienta de **inteligencia de datos** diseñada para mon
 
 ```bash
 
-git clone [https://github.com/tu-usuario/barca-media-monitor.git](https://github.com/tu-usuario/barca-media-monitor.git)
+git clone [https://github.com/jlagos-data/barca-media-monitor.git](https://github.com/jlagos-data/barca-media-monitor.git)
 
 cd barca-media-monitor
 
