@@ -3,8 +3,6 @@
 
 Este proyecto es una herramienta de **inteligencia de datos** diseñada para monitorizar y analizar la reputación del **FC Barcelona** en los medios de comunicación internacionales en cada 3 dias.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]( [)](https://bar-a-media-monitor-3cwq5qrsyviqe4hpftuvny.streamlit.app)
-
 ---
 
 ### Acceso Directo
