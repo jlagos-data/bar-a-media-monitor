@@ -6,7 +6,7 @@ Este proyecto es una herramienta de **inteligencia de datos** diseñada para mon
 ---
 
 ### Acceso Directo
-Puedes ver el dashboard en tiempo real aquí: [barca-media-monitor.streamlit.app](https://bar-a-media-monitor-3cwq5qrsyviqe4hpftuvny.streamlit.app)
+Puedes ver el dashboard en tiempo real aquí: [barca-media-monitor.streamlit.app](https://bar-a-media-monitor-4bcuorwochtel5ffi6iobl.streamlit.app)
 
 ## Funcionalidades
 
